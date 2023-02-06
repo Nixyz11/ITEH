@@ -6,7 +6,15 @@
   align-items: center;
   font-family: "Courier New", Courier, monospace;
 }
+.background{
 
+  background-color: rgb(23, 13, 31);
+
+
+
+
+
+}
 .footer {
   display: flex;
   padding: 2rem 0;
@@ -16,8 +24,8 @@
 }
 
 .image {
-  width: 70%;
-  height: 50%;
+  width: 200px;
+  height: 200px;
   margin-left: 20%;
 }
 
