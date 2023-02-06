@@ -218,7 +218,7 @@ export default function Home() {
       connectWallet();
       getAmounts();
     }
-    navigate("/");
+      //navigate("/");
   }, [walletConnected]);
 
  
