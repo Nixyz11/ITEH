@@ -17,7 +17,7 @@ import {
 import { swapTokens, getAmountOfTokensReceivedFromSwap } from "../utils/swap";
 import { useNavigate } from "react-router-dom";
 export default function Home() {
-  const navigate = useNavigate();
+  //const navigate = useNavigate();
   const [loading, setLoading] = useState(false);
  
   const [liquidityTab, setLiquidityTab] = useState(true);
